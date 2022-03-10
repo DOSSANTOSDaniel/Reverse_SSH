@@ -1,7 +1,7 @@
 # Connexion de type reverse SSH
 Se connecter à un ordinateur se trouvant derrière un pare-feu ou bien derrière un réseau NAT.
 
-![Schèma réseau](network.png)
+![Schèma réseau](schema/schema.png)
 
 ## Besoins sur la machine A
 
