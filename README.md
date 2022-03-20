@@ -3,11 +3,10 @@ Se connecter à un ordinateur se trouvant derrière un pare-feu ou bien derrièr
 
 ![Schèma réseau](schema/schema.png)
 
-## Besoins sur la machine A
-
-| Un client SSH |
+| Besoins sur la machine A |
 | :------------ |
 | Un accès utilisateur |
+| Un client SSH |
 | Une connexion internet |
 
 ## Contexte
