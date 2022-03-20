@@ -24,5 +24,5 @@ Ce script permet d'avoir un accès SSH sur une machine se trouvant derrière un 
 Vérifier que le port 2211 est en écoute sur la machine B.
 
 ```Bash
-(echo >/dev/tcp/127.0.0.1/2211) &> /dev/null && echo "Port eb écoute" || echo "Port fermé"
+(echo >/dev/tcp/127.0.0.1/2211) &> /dev/null && echo "Port en écoute" || echo "Port fermé"
 ```
