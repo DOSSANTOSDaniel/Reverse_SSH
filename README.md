@@ -8,9 +8,11 @@ Se connecter à un ordinateur se trouvant derrière un pare-feu ou bien derrièr
 | Un client SSH |
 | :------------ |
 | Un accès utilisateur |
+| Un client SSH |
+| Une connexion internet |
 
 ## Contexte
-Ce script permet d'avoir un accès SSH sur une machine se trouvant derrière Pare-feu ou un réseau NAT.
+Ce script permet d'avoir un accès SSH sur une machine se trouvant derrière un Pare-feu ou un réseau NAT.
  
 
 ## Usage
