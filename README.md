@@ -8,7 +8,6 @@ Se connecter à un ordinateur se trouvant derrière un pare-feu ou bien derrièr
 | Un client SSH |
 | :------------ |
 | Un accès utilisateur |
-| Un client SSH |
 | Une connexion internet |
 
 ## Contexte
